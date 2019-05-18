@@ -1,4 +1,5 @@
-![app-img](https://imgur.com/w7lanBY)
+![app-img](https://i.ibb.co/8r4L4Kw/image.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
